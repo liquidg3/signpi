@@ -1,0 +1,6 @@
+{
+  "url" : "https://appointments.spruce.me",
+  "arduino1": "192.168.1.20",
+  "arduino2": "192.168.1.22",
+  "url.disabled" : "http://192.168.1.13:8080"
+}
